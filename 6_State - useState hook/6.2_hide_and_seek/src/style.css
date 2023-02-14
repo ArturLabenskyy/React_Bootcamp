@@ -1,0 +1,20 @@
+.color-box {
+    height: 15rem;
+    width: 15rem;
+    background-color: yellow;
+    margin-top: 1rem;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+button {
+    width: 15rem;
+    height: 5rem;
+    font-size: 2rem
+}
