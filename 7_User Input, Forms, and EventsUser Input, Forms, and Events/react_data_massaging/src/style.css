@@ -1,0 +1,12 @@
+.names {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.information {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
