@@ -1,0 +1,16 @@
+.box{
+    position:relative;
+    animation: move 4s;
+}
+
+@keyframes move{
+    from{
+      top:0px;
+      left:0px;
+    }
+    to{
+      top:0px;
+      left:400px;
+    }
+    
+  }

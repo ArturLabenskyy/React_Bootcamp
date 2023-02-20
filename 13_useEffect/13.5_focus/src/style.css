@@ -1,0 +1,20 @@
+ #root {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #444444;
+ }
+
+
+input {
+    height: 2rem;
+    width: 10rem;
+    border: 3px solid black;
+    border-radius: 7px;
+}
+
+input:focus {
+    border:  3px solid red;
+    background-color: cornsilk;
+}
